@@ -16,8 +16,3 @@ cabal.sandbox.config
 *.hp
 *.eventlog
 .stack-work/
-cabal.project.local
-.HTF/
-
-.DS_Store
-
